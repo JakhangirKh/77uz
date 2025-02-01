@@ -13,6 +13,7 @@ export default {
       colors: {
         blue: {
           DEFAULT: "#388FF3",
+          100: "#FFFFFF"
         },
         grey: {
           4: "#EAEDF0",
